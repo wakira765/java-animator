@@ -1,6 +1,10 @@
 # Java Animator 2018
 Course project for Object Oriented Design at Northeastern University. The purpose of the project was to introduce students to a larger codebase using the MVC pattern. Other design patterns such as Factory, Builder, Adapter, etc. were used at the discretion of the students based on what we learned in lecture. 
 
+# Warning to Current Students
+This repo is currently public while I job hunt.\
+If you're looking to use this repo to 'help' you with your assignments in OOD, please don't :). \
+It won't help you in the long run. Go to office hours.
 # Getting Started
 
 ## Prequisites
