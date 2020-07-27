@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e00da44-abfe-4891-bb61-750befe08f19" name="Default Changelist" comment="" />
+    <list default="true" id="8e00da44-abfe-4891-bb61-750befe08f19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ModelToView" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelToView" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,9 +62,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModelToView" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ModelToView" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ModelToView">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="AnimationController.java" pinned="false" current-in-tab="false">
@@ -83,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnimationTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnimationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/AnimationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="588" column="22" selection-start-line="588" selection-start-column="22" selection-end-line="588" selection-end-column="22" />
+            <state relative-caret-position="136">
+              <caret line="584" column="27" lean-forward="true" selection-start-line="584" selection-start-column="27" selection-end-line="584" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -110,6 +116,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -119,6 +128,7 @@
         <option value="$PROJECT_DIR$/EXTRACREDIT_README.txt" />
         <option value="$PROJECT_DIR$/test/ScrubbingTest.java" />
         <option value="$PROJECT_DIR$/src/cs3500/view/Scrubbing.java" />
+        <option value="$PROJECT_DIR$/src/ModelToView" />
       </list>
     </option>
   </component>
@@ -133,6 +143,7 @@
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -175,11 +186,14 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akira\development\java_animator_2018" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cs3500.view" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Akira\Documents\assignment9_ood" />
@@ -305,6 +319,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -313,7 +328,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32881" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="5" />
@@ -637,9 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ModelToView">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/View_Listeners">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -669,8 +681,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/AnimationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="588" column="22" selection-start-line="588" selection-start-column="22" selection-end-line="588" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="584" column="27" lean-forward="true" selection-start-line="584" selection-start-column="27" selection-end-line="584" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelToView">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
