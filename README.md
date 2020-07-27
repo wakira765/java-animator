@@ -1,11 +1,6 @@
 # Java Animator 2018
 Course project for Object Oriented Design at Northeastern University. The purpose of the project was to introduce students to a larger codebase using the MVC pattern. Other design patterns such as Factory, Builder, Adapter, etc. were used at the discretion of the students based on what we learned in lecture. 
 
-# Warning to Current Students
-If you're a current student of CS3500 at Northeastern University and you're viewing this repository for "pointers" on the assignments, don't do it. It won't help you in the long run. I recommend going to office hours, but if you're really in the need of help feel free to reach out to me at: watanabe.a@northeastern.edu. I was a tutor for Fundies I and would be happy to give you some advice on how to work through some of the obstacles in this project. Being able to talk about what you're struggling with will teach you a lot more than simply copying what's in this repository.\
-
-If that's not enough to stop you, just remember Handin can detect plagiarism :) (also you won't be getting an A, I got a B on this project). 
-
 # Getting Started
 
 ## Prequisites
