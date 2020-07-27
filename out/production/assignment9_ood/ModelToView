@@ -32,6 +32,3 @@ View and Model
 - Attenuation: we're not even giving the view the full interface of the model
 - Debugging is simpler: is it the right data in the model? Is the data being sent accurately?
 
-
-
-
